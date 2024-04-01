@@ -44,10 +44,10 @@ Here at rocket.chat we decided to make a changelog focused on the person who man
 So we created some rules (similar to conventional commits) to help organize the changelog generation
 
 * `Regression: Your title here...` The term regression is used a little differently here on rocket.chat Regression means a bug introduced in the development period, which is being fixed before being released. No one has ever seen this problem in production, as it never existed in production. This is a regression. **This pull request and its description will be omitted from the release.**
-* `Chore: Your title here` Things that don't matter to the customer/end user. Like: CI tweaks, rewrites that don't change behavior or testing.
-* `Feat: Your title here...` This one applies to new stuff, which will be released in the future, NEVER expect a new one to make it into previous releases
-* `Fix: Your title here...` Used to show that we are delivering a fix or small change in behavior for a given area of the code.
-* `Use Chore!: ; Feat!: or Fix!: Your title here...` This is not something you see every day, but it needs to be remembered. When we decide to change some functionality, or remove some functionality, it can affect the customer's life and he needs to know. Be careful, as this PR will be waiting for a MAJOR release, this may take some time.
+* `chore: Your title here` Things that don't matter to the customer/end user. Like: CI tweaks, rewrites that don't change behavior or testing.
+* `feat: Your title here...` This one applies to new stuff, which will be released in the future, NEVER expect a new one to make it into previous releases
+* `fix: Your title here...` Used to show that we are delivering a fix or small change in behavior for a given area of the code.
+* `Use chore!: ; feat!: or fix!: Your title here...` This is not something you see every day, but it needs to be remembered. When we decide to change some functionality, or remove some functionality, it can affect the customer's life and he needs to know. Be careful, as this PR will be waiting for a MAJOR release, this may take some time.
 
 Please make sure PR has a name that really translates the modification involved in it.
 
