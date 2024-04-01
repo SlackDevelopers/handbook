@@ -43,7 +43,7 @@ Here at rocket.chat we decided to make a changelog focused on the person who man
 
 So we created some rules (similar to conventional commits) to help organize the changelog generation
 
-* `Regression: Your title here...` The term regression is used a little differently here on rocket.chat Regression means a bug introduced in the development period, which is being fixed before being released. No one has ever seen this problem in production, as it never existed in production. This is a regression. **This pull request and its description will be omitted from the release.**
+* `regression: Your title here...` The term regression is used a little differently here on rocket.chat Regression means a bug introduced in the development period, which is being fixed before being released. No one has ever seen this problem in production, as it never existed in production. This is a regression. **This pull request and its description will be omitted from the release.**
 * `chore: Your title here` Things that don't matter to the customer/end user. Like: CI tweaks, rewrites that don't change behavior or testing.
 * `feat: Your title here...` This one applies to new stuff, which will be released in the future, NEVER expect a new one to make it into previous releases
 * `fix: Your title here...` Used to show that we are delivering a fix or small change in behavior for a given area of the code.
