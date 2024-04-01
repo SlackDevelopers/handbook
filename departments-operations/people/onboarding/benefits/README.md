@@ -21,9 +21,10 @@ We are continually exploring new possibilities and striving to enhance the benef
 
 According to CLT laws, our Brazilian Rocketeers will also receive the following:
 
-* Meal Voucher of R$30/​day.
-* Transportation Card (for those in Porto Alegre/RS)
-* Private Healthcare and Dental Insurance
+* Meal Voucher (R$ 35 per ​day);
+* Transportation Card (exclusive for those in Porto Alegre/RS);
+* Health Voucher (R$ 55 per month);
+* Private Healthcare and Dental Insurance.
 
 You can access a full explanation of the CLT benefits, including information on the types of plans, values received, and the dates you receive them, by accessing [this link](https://docs.google.com/presentation/d/1fCHbGZIqpQtWrlWdNEdERrgM1494gMVj/edit#slide=id.p1).
 
@@ -55,3 +56,5 @@ In addition to payroll processing, TriNet provides the option to enrol in a heal
 **Life Insurance**: $20,000 Basic Life & AD\&D
 
 **Disability:** STD & LTD Employee Paid
+
+**401k Plan:** without employer contributions&#x20;
