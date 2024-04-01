@@ -49,7 +49,9 @@ So we created some rules (similar to conventional commits) to help organize the 
 * `fix: Your title here...` Used to show that we are delivering a fix or small change in behavior for a given area of the code.
 * `Use chore!: ; feat!: or fix!: Your title here...` This is not something you see every day, but it needs to be remembered. When we decide to change some functionality, or remove some functionality, it can affect the customer's life and he needs to know. Be careful, as this PR will be waiting for a MAJOR release, this may take some time.
 
-Please make sure PR has a name that really translates the modification involved in it.
+Please make sure PR has a name that really translates the modification involved in it.\
+\
+PS: we use conventional commits: [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### Rule 4: Description
 
