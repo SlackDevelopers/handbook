@@ -8,12 +8,12 @@ One reason our benefits structure operates differently is because we are remote 
 
 We’ve budgeted an amount to reimburse teammates for special costs. Market rates may vary as we have people based in different countries. We also have a great challenge to equalize the remote benefit, so keep in mind it will vary per region. For people relocating or moving to other countries, the Remote Benefit amount will be updated only after the update of the new address respectively in Deel and Zoho People.
 
-|          Region         |  Monthly Amount |
-| :---------------------: | :-------------: |
-|          Brazil         |      R$ 220     |
-|           USA           |      $ 165      |
-|        EU and UK        | € 165 / GBP 142 |
-| Other Countries/Regions |      $ 110      |
+|          Region         | Monthly Amount |
+| :---------------------: | :------------: |
+|          Brazil         |      R$ 220    |
+|           USA           |      $ 165     |
+|          Europe         |      € 165     |
+| Other Countries/Regions |      $ 110     |
 
 ### Expensing
 
