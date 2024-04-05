@@ -9,7 +9,7 @@ During your journey as a Rocketeer you will have different questions about diffe
 |       Finance      |     @debora.coy     |
 |      Marketing     |      @bruno.bin     |
 |     Operations     |     @alan.wright    |
-|      Security      |    @bruno.cestari   |
+|      Security      |  @giovani.salvador  |
 |       Support      |   @amanda.oliveira  |
 | Talent Acquisition |    @analopes.grun   |
 |     Engineering    | @rodrigo.nascimento |
