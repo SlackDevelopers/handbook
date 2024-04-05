@@ -8,19 +8,21 @@ description: >-
 
 ## Employees Located in Brazil
 
-For Brazilian Rocketeers, **Rocket.Chat will buy the equipment and will send it to you** through mail delivery as soon as we start your admission process. You may receive the laptop and headphones separately.
+For Brazilian Rocketeers, during your onboarding process, you will need to fill out a form. Through there, you can indicate whether you would like to receive the equipment or not.
 
-When you receive the packages, you also have to complete the "After the Delivery" steps described below!
+If "Yes", Rocket.Chat will send it to you through mail delivery as soon as we start your admission process. You may receive the laptop and headphones separately.
 
-**Important:** Interns are not elligible to receiving company equipment, unless it is previously authorized by their manager. Once they receive the equipment, they also have to complete the steps described below.
+**Note:** When you receive the packages, you must complete the "After the Delivery" steps described below in this section.
 
-## Employees Located in US
+**Important:** Interns are not eligible to receive company equipment unless it is previously authorized by their Manager. Once they receive the equipment, they also must complete the "After the Delivery" steps described below in this section.
 
-The process follows the same line as the one done for Contractors, Rocket.Chat will pay a **one-time subsidy** for ensuring adequate equipment to provide the related hired service.
+## Employees Located in the US
 
-Following the definitions available in the [Monthly payment](../monthly-payment.md) policy, the subsidy will be **paid on the second quarter of the first month of work in a single payment of up to USD 2,150.00** (two thousand and one hundred and fifty dollars), which considers the Company's estimates for the purchase of a new notebook and headphones for remote work to be used for a period of **36 months**.
+The process follows the same rules as for Contractors, Rocket.Chat will pay a **one-time subsidy** to ensure adequate equipment to provide the related hired service.
 
-The equipment (notebook and headphones) purchased **belongs to the company**, and the Employee also agrees with the following rules of use of the equipment for the purpose of rendering services in accordance with the Company standards:
+Following the definitions available in the [Monthly payment](../monthly-payment.md) policy, the subsidy will be **paid on the second quarter of the first month of work in a single payment of up to USD 2,150.00** (two thousand and one hundred and fifty dollars), which considers the Company's estimates for the purchase of a new notebook and headphones for remote work to be used for **36 months**.
+
+The equipment (notebook and headphones) purchased **belongs to the company**, and the Employee also agrees with the following rules of use of the equipment for the purpose of rendering services under the Company standards:
 
 * The equipment is intended for work purposes only;
 * Rocket.Chat has the right to unilaterally determine acceptable uses for the equipment, including mandating certain security configurations;
@@ -30,7 +32,7 @@ The equipment (notebook and headphones) purchased **belongs to the company**, an
 
 You don't need to send any quotes for approval before the purchase, you just need to send the purchase receipt (with a value up to USD 2150) to the Finance team (patricia.ferreira@rocket.chat) so they can proceed with the reimbursement.&#x20;
 
-For the **laptop** you can follow the **specifications** below:
+For the **laptop,** you can follow the **specifications** below:
 
 * _Non-devs:_ Core i5 9th or 10th generation, 8GB or 16GB RAM, 256 GB SSD
 * _Devs:_ Core i7 9th or 10th generation, 16GB RAM, 256 SSD (preference to dedicated video card)
@@ -43,8 +45,8 @@ Exceptions to this policy will be solely at Rocket.Chat discretion.
 
 As soon as you receive your equipment, you need to follow two crucial steps before starting to work:
 
-1. The laptop and headphones need to be reported with serial numbers, brand, model and other details by adding it to[ this form](https://people.zoho.com/rocketchat/zp#compensation/form/add-formLinkName:asset).
-2. New laptops should be configured with security in mind, so before you start working, you need to read and fill[ this security form](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf\_link) that will guide you through the necessary configurations you need to do.
+1. The laptop and headphones need to be reported with serial numbers, brand, model and other details by adding them to[ this form](https://people.zoho.com/rocketchat/zp#compensation/form/add-formLinkName:asset).
+2. New laptops should be configured with security in mind, so before you start working, you need to read and fill[ out this security form](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf\_link) that will guide you through the necessary configurations you need.
 
 ## Property
 
@@ -64,10 +66,10 @@ The residual value is calculated using the Straight-Line Depreciation method, as
 
 The Finance team will e-mail you asking if you would like to send back or purchase your equipment. If purchasing, please contact [Débora Coy](mailto:debora.coy@rocket.chat) and we will calculate the determined value. Then, if you decide to move forward with purchasing, our Finance team will reach out with payment information.
 
-If you decide to retain the laptop, you are required to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by Rocket.Chat. Evidence or a declaration that the device has been wiped must be supplied within 2 weeks of the end of employment. If we discover that a device has not been wiped according to policy, we may act to enforce a remote wipe without notice.
+If you decide to retain the laptop, you are required to wipe the machine re-install the base operating system, and remove all software and configurations that were supplied by Rocket.Chat. Evidence or a declaration that the device has been wiped must be supplied within 2 weeks of the end of employment. If we discover that a device has not been wiped according to policy, we may act to enforce a remote wipe without notice.
 
 ## Repairs
 
 If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and expensed, by using [this form](https://people.zoho.com/rocketchat/zp#compensation/form/add-formLinkName:Other\_Reimbursement). If the repair is going to take longer than a day, then you need to make sure you have a backup laptop to work on.
 
-If, however, the repair is going to be expensive and take weeks to fix and you have no backup laptop, your best option is to replace the laptop. In this case, in case you need a replacement laptop, make sure to send evidence that the previous machine's damage, return the first laptop by shipping it to our office (your shipping costs will be reimbursed) and remember all laptops must be returned within 2 weeks of receiving the replacement, so please prioritize transferring information between laptops within this time frame.
+If, however, the repair is going to be expensive and take weeks to fix and you have no backup laptop, your best option is to replace the laptop. In this case, in case you need a replacement laptop, make sure to send evidence that the previous machine's damaged, return the first laptop by shipping it to our office (your shipping costs will be reimbursed) and remember all laptops must be returned within 2 weeks of receiving the replacement, so please prioritize transferring information between laptops within this time frame.
