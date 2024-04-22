@@ -24,13 +24,14 @@ CIPA holds diverse responsibilities aimed at fostering a secure working environm
 * The committee actively promotes measures designed to prevent accidents and work-related illnesses, fostering a proactive approach to employee well-being;
 * An integral aspect of CIPA's role involves organizing safety training programs for employees. These initiatives enhance awareness and contribute to a safety culture within the organization.&#x20;
 
-### 2024 CIPA
+### Members
 
-It's essential to note that the composition of CIPA changes every year, ensuring fresh perspectives and commitment to safety. Each term brings new representatives to the commission, fostering continuous improvement in our approach to occupational health and safety.
+It's essential to note that the members of CIPA change every year, ensuring fresh perspectives and commitment to safety. Each term brings new representatives to the commission, fostering continuous improvement in our approach to occupational health and safety.
 
 ### Conclusion
 
-CIPA is a cornerstone in our commitment to maintaining a safe and healthy work environment. By proactively addressing risks, promoting preventive measures, and fostering collaboration between management and employees, CIPA plays a key role in upholding the well-being of our workforce. \
+CIPA is a cornerstone in our commitment to maintaining a safe and healthy work environment. By proactively addressing risks, promoting preventive measures, and fostering collaboration between management and employees, CIPA plays a key role in upholding the well-being of our workforce.&#x20;
 
+For further information or inquiries about CIPA, please reach out to the designated representatives or [refer to the Brazilian government website](https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-5-nr-5).
 
-For further information or inquiries about CIPA, please reach out to the [designated representatives](https://docs.google.com/presentation/d/15gNwbFsYpfu075V6EvyVkkqD4gSeXdyqqXXdRDQNxM0/edit?usp=sharing) or [refer to the Brazilian government website](https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-5-nr-5).
+**Important:** CIPA has a dedicated chapter in the onboarding certification. The People Team is responsible for ensuring regular updates on the certification, including the latest training materials.
