@@ -55,7 +55,7 @@ After the question-and-answer period, it's time for you and your leader to come 
 
 ## Engineering Performance and Career Check-In
 
-For the Engineering Team, we are launching a more specific and structured evaluation process. For the first time, we'll be incorporating a technical skill evaluation in addition to the existing criteria, which includes alignment with our DOTS, overall performance, and contributions to our results. The primary objective behind this change is to ensure that our evaluation process remains relevant and effective, supporting your career aspirations while aligning with the company's milestones.
+For the Engineering Team, we incorporated a technical skill evaluation in addition to the existing criteria, which includes alignment with our DOTS, overall performance, and contributions to our results. This evaluation ensures that our process is relevant and effective, supporting your career aspirations while aligning with the company's milestones.
 
 ## Some Useful Links
 

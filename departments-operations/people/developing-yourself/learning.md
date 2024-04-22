@@ -23,9 +23,8 @@ Looking to enrol in a course or purchase a book to enhance a skill related to yo
 2. **BEFORE** you enrol or purchase anything, validate it with the People Team with @fernanda.bernardes.
 3. If the People Team approves it, you can go ahead, purchase it and request the reimbursement in Zoho People, [here](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001045001/viewId:524549000001045003). Remember to present the receipt of the purchase.&#x20;
 
-**IMPORTANT:**
-
-While you can enrol in courses of any cost, please note that Rocket.Chat will only cover expenses up to a specified maximum. For Rocketeers outside of Brazil, the limit is $500, and for those in Brazil, it's R$1,953. This specific value for Brazilians adheres to legal restrictions, as companies are permitted to pay up to 1.5 times the Brazilian minimum wage in policies like this one.
+**IMPORTANT:**\
+While you can enrol in courses of any cost, please note that [Rocket.Chat](https://rocket.chat/) will only cover expenses up to a specified max. For Rocketeers outside of Brazil, the limit is $500, and for those in Brazil, it's R$2.118,00. This specific value for Brazilians adheres to legal restrictions, as companies are permitted to pay up to 1.5 times the Brazilian minimum wage in policies like this one.
 
 * The maximum cost applies per course, not per month. For instance, if you purchase a $600 course, you cannot split the reimbursement over two months; instead, you will receive 70% of the $600 in a single month, totalling $420.
 * Additionally, the maximum cost covers the total amount, including any additional taxes, such as enrollment fees or currency conversion fees.
