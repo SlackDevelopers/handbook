@@ -69,7 +69,7 @@ Current conflicting roles identified:
 
 The company maintains relevant contacts with authorities and agencies, those relevant for Rocket.Chat being mostly:
 
-* Data protection agencies - outlined at [Breach Notification Plan](https://app.gitbook.com/s/-M7iRWz196Rdn-5pW5QY/privacy-and-security/data-privacy-compliance/breach-notification-contact-with-authorities "mention")
+* Data protection agencies - outlined at [Breach Notification Plan](https://app.gitbook.com/s/-M7iRWz196Rdn-5pW5QY/legal-and-compliance/legal-operations/data-privacy-compliance/privacy-initiatives/breach-notification-contact-with-authorities "mention")
 * NIST
 * ISO
 * Open Source Community
