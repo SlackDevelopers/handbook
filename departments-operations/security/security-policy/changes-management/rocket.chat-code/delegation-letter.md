@@ -2,7 +2,7 @@
 
 Delegation letter for Change Management Process
 
-Valid until 28/02/2024
+Valid until June/01/2025
 
 Delegate Change Managers (DCM): Guilherme Gazzo (Head of Architecture); Diego Sampaio (Staff Engineer); Aaron Ogle (Head of Infra); Douglas Gubert (Engineer Manager);&#x20;
 

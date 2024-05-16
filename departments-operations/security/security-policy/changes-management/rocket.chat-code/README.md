@@ -4,8 +4,6 @@
 
 The purpose of this document is to outline the process for managing technical changes to the rocket.chat software versions (major release, minor release, security release or patch release), & Infrastructure as a code,  in order to ensure that changes are made in a controlled and consistent manner and that any risks associated with changes are identified and mitigated.
 
-
-
 ### Scope
 
 This change management plan applies to all changes to the (major release, minor release or patch release), including changes to software, documentation, and procedures.
@@ -14,7 +12,7 @@ This change management plan applies to all changes to the (major release, minor 
 
 This procedure should be reviewed at least annually.
 
-Last review on Feb/28/2023
+Last review on May/16/2024
 
 ### Acronyms & Definitions:
 
