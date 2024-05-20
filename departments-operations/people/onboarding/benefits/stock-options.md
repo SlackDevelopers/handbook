@@ -1,6 +1,6 @@
 # Stock Options
 
-At Rocket.Chat the stock options are intended to commit our team members to get us all together as official owners to a successful IPO. We want to motivate and reward our people for reaching that goal. This guide is meant to help you understand the piece of Rocket.Chat that you're going to own!
+At [Rocket.Chat](https://rocket.chat/) our stock options program is designed to align everyone's interests toward a common goal: a successful company. We want to motivate and reward our people for reaching that goal. This guide is meant to help you understand the piece of [Rocket.Chat](https://rocket.chat/) that you're going to own!
 
 Its goal is to explain what it is and its importance in simple words, but if you want more details of terms and conditions we advise you to check the full Rocket.Chat Holdings, Ltd. 2016 Share Plan (the "2016 Share Plan") and your stock option agreement, both go into the full legal details. If you have any questions about navigating your stock options and before you make important decisions please count on our Operations team and/or consult an employment attorney or a tax advisor.
 
