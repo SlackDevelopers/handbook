@@ -2,7 +2,7 @@
 
 ## Holidays
 
-We have a set list of National Holidays on Zoho People. Bot automation sends notifications on our #Core.Team channel informing those who are out of the office.&#x20;
+We have a set list of National Holidays on Zoho People. Bot automation sends notifications on our #Core.Team channel informing those who are out of the office.
 
 \
 [Here](https://people.zoho.com/rocketchat/zp#leavetracker/holiday/list) you can check the full list of Holodays according to specific locations. If you have a Regional Holiday coming up and it is **not on the list**, please follow these steps:
@@ -14,7 +14,9 @@ We have a set list of National Holidays on Zoho People. Bot automation sends not
 
 ## Vacations
 
-We recommend that all Rocketeers, regardless of their location, take a minimum of 20 days of vacation per year, in addition to their paid time off. This is crucial to allow for some relaxation time and to maintain a healthy work-life balance.&#x20;
+We recommend that all Rocketeers, regardless of their location, take a minimum of 20 days of vacation per year, in addition to their paid time off. This is crucial to allow for some relaxation time and to maintain a healthy work-life balance.
+
+Since it’s a longer period, don’t forget to communicate it in advance (2-3 weeks for contractors and 30 days for Brazilian employees).&#x20;
 
 Brazilian Rocketeers should follow the vacation laws stated in the CLT, as follows:
 
@@ -24,8 +26,6 @@ Brazilian Rocketeers should follow the vacation laws stated in the CLT, as follo
 * It's not possible to start vacations on Fridays, two days before Sundays and public holidays
 
 We strongly advise you to block your vacation days in your Google Calendar in anticipation to prevent people from scheduling any meetings on these special days!&#x20;
-
-If you prefer, you can also learn about vacation rules for Brazilian CLT employees by watching a short [video](https://drive.google.com/file/d/1-pw8dV7CrQr4-LPlgXzbD13CGKkEx6-6/view).
 
 ## Maternity and Paternity leaves
 
