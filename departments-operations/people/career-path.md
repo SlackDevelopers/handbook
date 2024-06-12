@@ -2,148 +2,47 @@
 
 ## Intro
 
-The Rocket.Chat's career path considers the long-term relationship development with the team member. This trail goal permits the full development of the team members, weighing their expectations, skills, and company needs.
+The career path is a way to structure the professional journey of our Rocketeers. It is important to emphasize that we are a small company operating in a very dynamic environment. These factors lead us to structure a career plan that is volatile, flexible, and not overly specific.
 
-The paths consider technical and nontechnical aspects based on a “Y” career allowing the team member to tread their career path in a technical or the management trial reaching similar levels, regardless of path chosen by the employee.
+It is crucial to understand that the protagonist of the career plan is the Rocketeer. Being the protagonist means to take charge of your career and development. Employees need to reflect on: What do I aspire to? What are my goals and aspirations? What can I do to evolve and achieve my professional objectives?
 
-### Career Paths by Area
+The fact that the Rocketeers are the protagonists does not exempt the company and the leader from responsibility in this process; rather, it shares it.
 
-## Levels
+The leader is a facilitator and supporter on this journey. Their role is to ensure that career conversations take place, to support and guide the growth plan, and to provide feedback and suggest tools for the employee to achieve their goals.
 
-![](<../../.gitbook/assets/Screen Shot 2021-09-08 at 12.27.54.png>)
+For a Rocketeer to be promoted or to progress in their career, three factors need to converge: the Rocketeer being prepared, the leader agreeing that the Rocketeer is prepared, and the company having the need. There are no guarantees or promises of promotion, so be prepared for when the organization's need arises. This is the one factor that is in your hands.
 
-### Strategic Level
+Being prepared and constantly updated are key to career progression.
 
-This level is in charge of **setting the company’s goals**, provide and approve the resources supply for the other company levels to reach the objectives.
-
-Seniors professionals, as C-Level, Fellows, and Distinguished, form this level. They are part of the company’s executive meeting, and ideally, this level is in charge of a department of the company.
-
-The strategic level has a specific budget typically and has a set of OKRs to be accountable for delivery.
-
-#### Daywork
-
-A strategic level member has to regularly **touch the bases with their managers**, represent the company in external meetings, meet the department in internal meetings, and discuss strategy with their pairs and their working teams.
-
-The strategic level member also **knows the operations** very well and must keep in touch with the other organization’s members.
-
-#### Outcome
-
-The strategy must answer **WHY and WHEN** the company has to reach each goal. **The definitions of Vision, Mission, and Company values** are other important outcomes from the strategic level. This stage offers a long-term view of the company.
-
-It is essential to say that all those concepts mentioned in the last paragraph must be clear, tangible, and intelligible for the other organization’s levels since the strategic level has more information and context than the tactical and operational teams.
-
-### Tactical Level
-
-The tactical level is in charge of **transforming the company goals into actions and initiatives**. Middle-level or senior professionals as Principal, Managers, and staff participates in committees and commissions and provide information for the other levels of the organization.
-
-They usually do the **management of the resources of company departments**. The tactical level is in charge of being a bridge between the strategy and the operation.
-
-#### Daywork
-
-The tactical level members **oversee the operation daily**, **move the roadblocks**, and represent the department in meetings. Give guidance for the operational team and measure the efficiency of the ongoing activities. **Map, support, and give maintenance** for the actual business **process**.
-
-#### Outcome
-
-The tactical must answer **HOW and WHERE** the company will reach the goals. The roadmaps and the portfolio are other essential outcomes. The tactical level members are in charge of providing executive information for the strategic level and translating the strategy into actions for the operation. This stage offers a medium-term view of the company. This level must act as a coach, helping to identify how to held the best of each resource.
-
-### Operational Level
-
-The operational level is in charge of **delivering value to the product, client, and user**. The Operational level Is the part of the company that puts the strategy and the tactics ongoing. Formed by Junior, Intermediate, and Senior professionals, the operational team members execute the actions and initiatives defined with the tactical level.
-
-The operational team member can also create a new strategy or tactic initiative helping the organization on another level.
-
-#### Daywork
-
-The operational team member executes the process and **adds value to the products** and services supplied by the organization. In addition, the operational team is **involved in the planning, improvement, and implementation of the strategy and the company’s tactics**.
-
-#### Outcome
-
-The operational team must answer **WHAT** company objectives were reached\*\*.\*\* As the closest client part of the company, the team helps provide feedback that will enable the organization to set new strategies and tactics. The members of this level have to provide operational support and information for the other levels of the organization. This stage offers a Day-to-day view of the company.
-
-## The Rocket.Chat Career Path
+## The Rocket.Chat Career Path:
 
 Rocket.Chat adopted a model where both technical and management careers can reach the same levels. According to the company beliefs, collaborators can be very skilled technical professionals and be well recognized in roles and salaries.
 
 Adopting the “Y” career path model permits the team member to evolve in the first career steps with a common axis. Then, after deciding, based on the personal objectives and company needs, the development path will be followed.
 
-Once someone reaches a Senior-level role and wants to progress, they will need to decide if they wish to remain purely technical or pursue managing technical teams. Their manager can provide opportunities to try tasks from both tracks if they want to. Staff-level roles and Manager roles are equivalent in terms of base compensation and prestige.
+Once someone reaches a Senior-level role and wants to progress, they will need to decide if they wish to remain purely technical or pursue managing technical teams. Staff-level roles and Manager roles are equivalent in terms of base compensation and prestige.
 
-### The Common Axis
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXd4KbxuZQIQCIGjyzRPoL-i1B9awL8qV6HXhQlP6ettTwuWVYTEWWKcn-c2py2LHVibBmyngizxFo6eM7fV9wenwsdF1eLBVVWwtOgyuogbQuEFhvMCS6Exym4Ox5gsQ_dCObuz1m6qCUrlWs7YkapVmKzc?key=Y64XRb7sjvZ86Te9MYCXFg" alt=""><figcaption></figcaption></figure>
 
-Will be assigned Intern, Junior, Intermediate, and Senior levels to the entry positions according to their experience, skills, and characteristics. In this common axis, there’s no separation between Technical and Management careers.
 
-### The Individual Contributor Axis
 
-Technical excellence is something that Rocket.Chat values. Individual contributor career path allows the team member to keep their development without considering a change to a management approach and still with similar compensation.
+### Career Levels:
 
-The specific trail also clarifies the requirements for the team member assignment within a particular position.
+The levels represent the hierarchy of positions and indicate where a person is in their career. The difference in seniority is represented by aspects such as experience, level of responsibility, professional maturity, and the complexity of tasks performed.
 
-#### Roles
+**Intern**: An intern is someone who is currently studying and entering the job market. They have little experience and require significant help and guidance to perform their tasks and understand the business context.
 
-In the individual contributor path, the team member can reach the following levels:
+**Junior**: A junior employee has limited work experience in their role. They need considerable guidance to understand the company’s context, how goals are set, and their role within the organization. They have low decision-making power and often need help to complete tasks. Junior employees typically work on tasks with lower complexity.
 
-**At Tactical Level**
+**Intermediate**:  A mid-level professional has a solid track record of performance and shows professional maturity. They can work autonomously but still appreciate help and guidance from senior staff. They have some decision-making power and usually contribute to decisions about their projects or areas of responsibility, offering insights based on their experience. Their tasks are more complex and challenging than those given to junior employees and often need them to combine different parts of their knowledge.
 
-**First Stage**
+**Senior**: A senior employee has many years of experience, performs their role autonomously, and carries a high level of responsibility within the company. They can handle the entire process of a task—planning, execution, and completion—without support or guidance. They seek input only to gain different perspectives and make the best decision for the company. Seniors are capable of assisting lower-level employees (mid, junior, and interns) and serve as technical and behavioral references for the team. The seniors might be involved in strategic planning from a company wide perspective and can lead important and impactful projects.
 
-Staff or Product Manager: Considering the career will be directed for a product or technical trail.
+### How can I progress in my career?
 
-The first step of the tactical level is acting as a consultant and an individual reference for the team.
+In order to support career development and growth, we have our Check-In. It is very important to use the performance evaluation process to make your career expectations clear, to exchange feedback and to build a strong Individual Development Plan to support your career growth.&#x20;
 
-**Second Stage**
+There are two important highlights:
 
-Principal or Senior Product Manager: Considering the career will be directed for a product or technical trail.
-
-The second step of the tactical level is acting as a high consultant and a corporative reference for the team.
-
-**At Strategic Level**
-
-**First Stage**
-
-Distinguished: At this level, the person's contribution plays to their strength and role on the team. These contributions come in different forms: Provides technical direction to stakeholders (Product, Sales, others) and being the primary reference for the company on a specific topic influencing the company’s strategic decisions.
-
-**Second Stage**
-
-Fellow: Advocate for improvements, being a principal reference for a specific product, service, or technology. Exert significant influence on the overall objectives and long-range goals. Solve technical problems of the highest scope and complexity for the entire organization.
-
-### The Management Axis
-
-In the management path, the team member can reach the following levels:
-
-**At Tactical Level**
-
-**First Stage**
-
-Manager: At this level, the managers will seek to build out a great team, happy and prosperous; They will improve processes to make the team more effective. Plan and execute long-term strategies that benefit the team and the product stage\*\*.\*\* In charge of the people management, the manager must hold regular 1:1's with all team members helping the people evolve and grow up as a professional.
-
-**Second Stage**
-
-Senior Manager or Group Product Manager: At this level, the person must extend the manager’s responsibilities; Manage multiple teams. Generate and implement process improvements, especially cross-team processes. Regarding people management, this individual must hold regular 1:1s with team managers and skip-level 1:1s with all team members. Establish a management mentorship.
-
-**At Strategic Level**
-
-**First Stage**
-
-Director: At this level, the person must extend the Senior Manager requirements and add excellent communication skills; Expert hiring manager skills. Be the manager of managers and keep solid agile project management skills. This position requires also to be in charge of budgeting and the second level OKR management, overseen the initiatives related.
-
-**Second Stage**
-
-VP: At this level, the person must extend that of the Senior Director, Development responsibilities. It expands the role to cover full functional and product capabilities at Rocket.Chat. Drive recruiting of a world-class team at all levels. Help their directors, senior managers, managers, and individual contributors grow their skills and experience.
-
-**Third Stage**
-
-C-Level: Be the principal management reference in the department. At this level, the person will be in charge of developing the organization strategy, defining the company’s main objectives, and representing the company for the board of investors. In addition, be a mentor to the company leadership.
-
-## The Reference
-
-Considering the model proposed is replacing the old one, it is essential to mention the reference for keeping the consistency between the old and the new.
-
-It Is important to reinforce that all the positions will receive a grade, and this grade will be the reference to link the old and the new chart.
-
-The grades start at four and go until 16, and it doesn’t depend if the team member is a Manager or an Individual Contributor. An individual contributor can have the same grade as the Manager and consequently the same salary input. It is also must consider that the compensation has others inputs like the region and fee charges.
-
-{% content-ref url="../research-and-development/engineering/engineering-career-path.md" %}
-[engineering-career-path.md](../research-and-development/engineering/engineering-career-path.md)
-{% endcontent-ref %}
-
-![](../../.gitbook/assets/1.png)
+1. Don’t forget you are the protagonist of this process and you are responsible for it!&#x20;
+2. The company needs are one of the pillars of getting a promotion. This means that to be promoted, the company must require someone at that higher level or in a different role, with an available position or approved budget. The valuable tip is: be prepared for when the company needs it.\
