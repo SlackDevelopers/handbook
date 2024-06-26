@@ -26,7 +26,7 @@ The Check-In has 5 steps:
 * Reports;
 * Feedback Session / Development Plan.
 
-To walk you through each of them, here is the [recorded training](https://drive.google.com/file/d/1uC2xzehYSRCBEN7imCipynS2QkmMgRB7/view?usp=sharing)\* and the[ introduction material](https://docs.google.com/presentation/d/1PruDL-VxJ\_A7MyN9o0qZAcec4y2f9rsUfXjJ9PE1sO4/edit?usp=sharing). At Qulture.Rocks' Knowledge Base you'll also find a collection of[ tutorials](https://help.qulture.rocks/en/collections/2438024-performance-evaluation#tutorial-for-employees) to help you during the process.
+To walk you through each of them, here is the [recorded training](https://drive.google.com/file/d/1uC2xzehYSRCBEN7imCipynS2QkmMgRB7/view?usp=sharing)\* and [the introduction material](https://docs.google.com/presentation/d/19S0cZKdRlmhAnYLcUvDXdOtQbnEyoxl6fN56NKrG0u0/edit#slide=id.g2de7a522996\_0\_0). At Qulture.Rocks' Knowledge Base you'll also find a collection of[ tutorials](https://help.qulture.rocks/en/collections/2438024-performance-evaluation#tutorial-for-employees) to help you during the process.
 
 **\*Check-In Training Video details:**&#x20;
 
