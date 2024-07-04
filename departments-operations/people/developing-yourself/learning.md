@@ -32,25 +32,7 @@ While you can enrol in courses of any cost, please note that[ Rocket.Chat](https
 
 **Exceptions:** Long-duration and high-cost courses, such as MBAs and post-graduate programs. Approvals for these exceptions should be granted by the General Manager and must be included in the yearly budget by the business area.
 
-### Retention Ranges (Applied Only to Courses)
-
-The retention ranges are established based on common practices observed in benchmarked organizations, creating a 'two-way street' between the organization and the Rocketeer through educational support. Different ranges of company support values are associated with varying expected retention periods. The retention period commences from the moment a Rocketeer requests a course, and should they leave the company during this period, they will be required to reimburse the proportional value for the time remaining in the retention period.
-
-To ensure fairness, the policy delineates distinct retention ranges for Rocketeers inside and outside Brazil, considering the different maximum expenses applicable.
-
-In Brazil (maximum R$ 2,118):
-
-* R$ 0 to R$ 300 - no retention period
-* R$ 301 to R$ 1,000 - 3-month retention period
-* R$ 1,001 to R$ 1,818 - 6-month retention period
-* Over R$ 1,818 - 1-year retention period
-
-Outside Brazil (maximum $ 525):
-
-* $ 0 to $ 100 - no retention period necessary
-* $ 101 to $ 250 - 3-month retention period
-* $ 251 to $ 500 - 6-month retention period
-* Over $ 500 - 1-year retention period
+* When a Rocketeer receives financial support for a course, they are expected to remain with the company for a minimum period equivalent to 90% of the course duration after its completion. If this doesn't happen, they will be required to reimburse the proportional value for the time remaining in the retention period.
 
 ## Expensing
 
